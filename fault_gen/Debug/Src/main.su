@@ -1,6 +1,0 @@
-../Src/main.c:12:5:main	24	static
-../Src/main.c:43:6:HardFault_Handler	8	static
-../Src/main.c:48:6:MemManage_Handler	8	static
-../Src/main.c:53:6:BusFault_Handler	8	static
-../Src/main.c:59:30:UsageFault_Handler	0	static,ignoring_inline_asm
-../Src/main.c:67:6:UsageFault_Handler_c	24	static
